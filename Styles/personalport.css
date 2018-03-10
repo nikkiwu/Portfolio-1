@@ -7,6 +7,7 @@
 
 header {
     background: floralwhite;
+
 }
 
 header::after {
@@ -67,12 +68,15 @@ nav a:hover::before {
 }
 
 
-.titleparagraph{
+.titleparagraph {
     font-size: 100px;
     font-family: 'Yantramanav', sans-serif;
     text-align: center;
     padding: 25px;
+    margin: 0;
     color: white;
+    background-image: url("/Images/Shrinez .2-1.jpg");
+
 
 }
 
