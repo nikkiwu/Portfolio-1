@@ -1,4 +1,7 @@
-
+* {
+    padding: 0;
+    margin: 0;
+}
 
 .container {
     width: 80%;
@@ -72,10 +75,14 @@ nav a:hover::before {
     font-size: 100px;
     font-family: 'Yantramanav', sans-serif;
     text-align: center;
-    padding: 25px;
+    padding: 50px;
     margin: 0;
     color: white;
-    background-image: url("/Images/Shrinez .2-1.jpg");
+    background-image: url("../Images/day 2 -1-2.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
 }
