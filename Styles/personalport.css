@@ -1,9 +1,4 @@
-body {
-    margin: 0;
-    background: #222;
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 400;
-}
+
 
 .container {
     width: 80%;
@@ -71,16 +66,13 @@ nav a:hover::before {
     width: 100%;
 }
 
-.Title{
-    background-image: url("../Images/uTPHRbC.png");
-    background-repeat: no-repeat;
 
-
-}
-h1{
+.titleparagraph{
     font-size: 100px;
-    font-family: "Work Sans"sans-serif;
+    font-family: 'Yantramanav', sans-serif;
     text-align: center;
-    padding: 50px;
-    color:black;
+    padding: 25px;
+    color: white;
+
 }
+
