@@ -2,14 +2,29 @@
     margin: 0;
     padding: 0;
 }
+
+body, html{
+    height: 100%;
+}
 .container {
     width: 80%;
     margin: auto;
     font-family: 'Yantramanav bold', sans-serif;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/Images/day 2 -1-2.jpg");
 }
 
 header {
-    background: floralwhite;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/Images/day 2 -1-2.jpg");
+}
+
 
 }
 
@@ -70,18 +85,5 @@ nav a:hover::before {
     width: 100%;
 }
 
-body, html{
-    height: 100%;
-}
-
-.frontpage{
-    background-image: url("../Images/day 2 -1-2.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-
-}
 
 
