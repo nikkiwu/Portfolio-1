@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b99e57a1-d8e8-4502-a3bb-034be7253b8e" name="Default" comment="">
+    <list default="true" id="b99e57a1-d8e8-4502-a3bb-034be7253b8e" name="Default" comment="FINALLY FULLSCREEN101">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/Images/28878906_10216350841467536_1324594290_o.png" afterPath="$PROJECT_DIR$/Images/28878906_10216350841467536_1324594290_o.png" />
       <change beforePath="$PROJECT_DIR$/Styles/personalport.css" afterPath="$PROJECT_DIR$/Styles/personalport.css" />
@@ -120,7 +120,7 @@
       <updated>1520639012514</updated>
       <workItem from="1520639013964" duration="5905000" />
       <workItem from="1520723209975" duration="2761000" />
-      <workItem from="1520729424746" duration="1407000" />
+      <workItem from="1520729424746" duration="1544000" />
     </task>
     <task id="LOCAL-00001" summary="Shrine">
       <created>1520723838050</created>
@@ -143,22 +143,29 @@
       <option name="project" value="LOCAL" />
       <updated>1520732408956</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="FINALLY FULLSCREEN">
+      <created>1520732798188</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1520732798188</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10073000" />
+    <option name="totallyTimeSpent" value="10210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.059571087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32844576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -182,7 +189,9 @@
     <MESSAGE value="Shrine" />
     <MESSAGE value="Laptop" />
     <MESSAGE value="laptop v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="laptop v1" />
+    <MESSAGE value="FINALLY FULLSCREEN" />
+    <MESSAGE value="FINALLY FULLSCREEN101" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINALLY FULLSCREEN101" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

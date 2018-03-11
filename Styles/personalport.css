@@ -1,11 +1,11 @@
-* {
-    padding: 0;
+*{
     margin: 0;
+    padding: 0;
 }
-
 .container {
     width: 80%;
-    margin: 0 auto;
+    margin: auto;
+    font-family: 'Yantramanav bold', sans-serif;
 }
 
 header {
@@ -61,7 +61,7 @@ nav a::before {
 
     position: absolute;
     top: 0;
-    width: 0%;
+    width: 0;
 
     transition: all ease-in-out 250ms;
 }
@@ -70,14 +70,11 @@ nav a:hover::before {
     width: 100%;
 }
 
+body, html{
+    height: 100%;
+}
 
-.titleparagraph {
-    font-size: 100px;
-    font-family: 'Yantramanav', sans-serif;
-    text-align: center;
-    padding: 50px;
-    margin: 0;
-    color: white;
+.frontpage{
     background-image: url("../Images/day 2 -1-2.jpg");
     height: 100%;
     background-position: center;
@@ -86,4 +83,5 @@ nav a:hover::before {
 
 
 }
+
 
