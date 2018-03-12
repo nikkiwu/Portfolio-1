@@ -123,3 +123,12 @@ position: relative;
     color: white;
 }
 
+
+.what {
+    background-image: url("Images/_1-1.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
