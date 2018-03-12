@@ -7,17 +7,23 @@ body, html {
     height: 100%;
     margin: 0;
 }
+.titlep, .who, .what{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 
+    background-attachment: fixed;
+}
 .titleimage {
 
     background-image: url("Images/Shrinez .2-1.jpg");
 
     height: 100%;
-
-    background-attachment: fixed;
-    background-position: center;
+    background-position: 40% 70%;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
 }
 
 .titlep {
