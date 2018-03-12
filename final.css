@@ -12,7 +12,6 @@ body, html {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
     background-attachment: fixed;
 }
 .titleimage {
@@ -98,7 +97,7 @@ nav a::before {
 
     position: absolute;
     top: 0;
-    width: 0%;
+    width: 0;
 
     transition: all ease-in-out 250ms;
 }
@@ -131,10 +130,18 @@ position: relative;
 
 
 .what {
-    background-image: url("Images/_1-1.jpg");
+    background-image: url("Images/day 2 -2.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+}
+.whatpara{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
 }
