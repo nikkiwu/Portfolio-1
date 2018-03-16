@@ -46,9 +46,41 @@ body, html{
 
 .whocontainer{
     display: flex;
+    text-align: center;
+    background: floralwhite;
 }
 
 .wholist{
     text-align: center;
+    padding: 10%;
+
+}
+
+.section-what{
+    background: url("Images/day 2 -2.jpg") no-repeat center;
+    height: 30%;
+    background-size: cover;
+    position: relative;
+}
+
+.section-wh-text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+.whatlist{
+    text-align: center;
+    padding: 10%;
+}
+
+.whatcontainer{
+    display: flex;
+    text-align: center;
+    background-color: floralwhite;
+
 
 }
