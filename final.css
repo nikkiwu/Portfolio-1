@@ -26,12 +26,14 @@ body, html{
     transform: translate(-50%, -50%);
     color: white;
     font-family: 'Raleway', sans-serif;
+
 }
 .section-who{
     background: url("Images/2-2.jpg") no-repeat center;
-    height: 30%;
+    height: 100%;
     background-size: cover;
     position: relative;
+    display: flex;
 }
 .section-w-text {
     text-align: center;
@@ -44,21 +46,9 @@ body, html{
     font-size: smaller;
 }
 
-.whocontainer{
-    display: flex;
-    text-align: center;
-    background: floralwhite;
-}
-
-.wholist{
-    text-align: center;
-    padding: 10%;
-
-}
-
 .section-what{
     background: url("Images/day 2 -2.jpg") no-repeat center;
-    height: 30%;
+    height: 100%;
     background-size: cover;
     position: relative;
 }
