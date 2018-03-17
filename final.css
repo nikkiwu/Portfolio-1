@@ -34,9 +34,10 @@ body, html{
     background-size: cover;
     position: relative;
     display: flex;
+    text-align: center;
 }
 .section-w-text {
-    text-align: center;
+    text-align:;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -44,6 +45,11 @@ body, html{
     color: white;
     font-family: 'Raleway', sans-serif;
     font-size: smaller;
+
+}
+.wholist{
+    text-decoration: none;
+    list-style: none;
 }
 
 .section-what{
@@ -61,6 +67,7 @@ body, html{
     transform: translate(-50%, -50%);
     color: white;
     font-family: 'Raleway', sans-serif;
+
 }
 .whatlist{
     text-align: center;
@@ -78,19 +85,17 @@ body, html{
     left: 0;
     bottom: 0;
     width: 100%;
-    color: white;
+    color: darkgray;
     text-align: center;
-    background-image: url("Images/uTPHRbC.png");
+    background-color: floralwhite;
 }
 
-.footer p{
-    color: white;
-}
 .footer i{
     text-decoration: none;
-    color: white;
+    color: darkgray;
 }
 
 .footer i:hover{
     opacity: 0.5;
+    color: blue;
 }
