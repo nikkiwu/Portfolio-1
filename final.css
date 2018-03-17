@@ -74,27 +74,23 @@ body, html{
 
 }
 
-.section-contact {
-    background-image: url("Images/hWcTKDR.png");
-    height: 25%;
-    background-size: cover;
-    position: relative;
-    text-align: center;
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
     color: white;
-    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    background-image: url("Images/uTPHRbC.png");
 }
 
-.section-contact{
-    text-align: center;
+.footer p{
+    color: white;
+}
+.footer i{
     text-decoration: none;
     color: white;
 }
 
-.section-contact i{
-    text-decoration: none;
-    color: white;
-}
-
-.section-contact i:hover{
+.footer i:hover{
     opacity: 0.5;
 }
