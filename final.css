@@ -47,7 +47,7 @@ body, html{
 }
 
 .section-what{
-    background: url("Images/day 2 -2.jpg") no-repeat center;
+    background: url("Images/day 2 -1-2.jpg") no-repeat center;
     height: 100%;
     background-size: cover;
     position: relative;
@@ -64,7 +64,6 @@ body, html{
 }
 .whatlist{
     text-align: center;
-    padding: 10%;
 }
 
 .whatcontainer{
@@ -73,4 +72,29 @@ body, html{
     background-color: floralwhite;
 
 
+}
+
+.section-contact {
+    background-image: url("Images/hWcTKDR.png");
+    height: 35%;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.section-contact{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+.section-contact i{
+    text-decoration: none;
+    color: white;
+}
+
+.section-contact i:hover{
+    opacity: 0.5;
 }
